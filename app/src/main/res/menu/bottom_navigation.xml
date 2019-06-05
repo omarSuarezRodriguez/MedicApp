@@ -9,23 +9,23 @@
 
 
     <item
-        android:id="@+id/nav_misPacientes"
+        android:id="@+id/nav_pacientes"
         android:icon="@drawable/ic_patients_24dp"
         android:title="Mis Pacientes" />
 
 
     <item
-        android:id="@+id/nav_Agenda"
+        android:id="@+id/nav_agenda"
         android:icon="@drawable/ic_book_black_24dp"
         android:title="Agenda" />
 
     <item
-        android:id="@+id/nav_Mensajes"
+        android:id="@+id/nav_mensajes"
         android:icon="@drawable/ic_message_black_24dp"
         android:title="Mensajes" />
 
     <item
-        android:id="@+id/nav_Contenido"
+        android:id="@+id/nav_contenido"
         android:icon="@drawable/ic_gif_24dp"
         android:title="Contenido" />
 
